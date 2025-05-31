@@ -1,4 +1,4 @@
-<div align="center">Add commentMore actions
+<div align="center">
   <a href="#">
     <img src="https://github.com/GoMartProject/gomart-assets/blob/main/GoMart-Logo.png" alt="Logo" width="auto" height="150">
      <h3 align="center">GoMart</h3>
